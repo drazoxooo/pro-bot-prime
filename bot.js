@@ -58,7 +58,7 @@ client.on('message', message => { // هاذا للبرودكسات
 	}
 });
 client.on('ready', () => {
-  client.user.setGame(` By drazox #4272 .`,'https://www.twitch.tv/v5bz');
+  client.user.setGame(` ProBot Prime TRX_v1 .`,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Bot Is Online')
   console.log('---------------')
